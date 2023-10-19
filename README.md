@@ -14,7 +14,6 @@
 
 <br>
 
-- A developer student at ```ISITECH```
 - I want to become a mobile developer !
 - I’m currently open for an Intern or a new job opportunity.
 
